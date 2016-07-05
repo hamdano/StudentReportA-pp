@@ -1,0 +1,14 @@
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\bin\Debug\StudentReportsA pp.exe.config
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\bin\Debug\StudentReportsA pp.exe
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\bin\Debug\StudentReportsA pp.pdb
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\OStudentReports.csprojResolveAssemblyReference.cache
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\MainWindow.g.cs
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\App.g.cs
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\StudentReportsA pp_MarkupCompile.cache
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\StudentReportsA pp_MarkupCompile.lref
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\MainWindow.baml
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\StudentReportsA pp.g.resources
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\StudentReportsA_pp.Properties.Resources.resources
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\OStudentReports.csproj.GenerateResource.Cache
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\StudentReportsA pp.exe
+C:\Users\omar\Documents\Visual Studio 2015\Projects\StudentReportsA pp\StudentReportsA pp\obj\Debug\StudentReportsA pp.pdb
